@@ -1,0 +1,23 @@
+.cardjob{
+    position: absolute;
+    left:1%;
+    top:310%;
+    display: flex;
+    padding: 5px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+.recent{
+    position: absolute;
+    left:4%;
+    top:250%
+}
+.one,.two,.three,.four{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    margin: 40px;
+}

@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&display=swap');
+
+body {
+  margin: 0;
+  background: #ecf0f1;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
+  height: 130vw;
+  width: 15vw;
+  background: #154778;
+}
+
+.section {
+    
+  color: white;
+  font-size: 20px;
+  padding: 5px;
+  font-weight: bolder;
+  font-family: 'Belanosima', sans-serif;
+  
+}
+.item1{
+    background-color: #648cb5;
+    padding: 14px;
+    width: 10%;
+    border-radius: 10px;
+    color: white;
+    position: absolute;
+    top:20%;
+    text-align: center;
+    
+}
+.item1:hover{
+    background-color: #7aa9d7;
+    padding: 14px;
+    width: 10%;
+    border-radius: 10px;
+    color: white;
+    position: absolute;
+    top:20%;
+    text-align: center;
+    
+}
+.item2{
+    background-color: #648cb5;
+    padding: 14px;
+    border-radius: 10px;
+    position: absolute;
+    top: 30%;
+    color: white;
+    width: 10%;
+    text-align: center;
+}
+.item2:hover{
+    background-color: #7aa9d7;
+    padding: 14px;
+    border-radius: 10px;
+    position: absolute;
+    top: 30%;
+    color: white;
+    width: 10%;
+    text-align: center;
+}
+.item3{
+    background-color: #648cb5;
+    padding: 14px;
+    border-radius: 10px;
+    position: absolute;
+    top: 40%;
+    width: 10%;
+    color: white;
+    text-align: center;
+
+}
+.item3:hover{
+    background-color: #7aa9d7;
+    padding: 14px;
+    border-radius: 10px;
+    position: absolute;
+    top: 40%;
+    width: 10%;
+    color: white;
+    text-align: center;
+
+}
+.item4{
+    background-color: #648cb5;
+    padding: 14px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    color: white;
+    width: 10%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.item4:hover{
+    background-color: #7aa9d7;
+    padding: 14px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    color: white;
+    width: 10%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.section {
+  padding: 20px;
+}
+.logo{
+    width: 100%;
+}
+.item{
+    position: relative;
+    bottom: 25px;
+}

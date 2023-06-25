@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.jobimg{
+width: 70%;
+position: absolute;
+top: 8px;
+left: 23%;
+}
+.info{
+    font-size: 30px;
+   position: absolute;
+   top: 85%;
+    left: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+.get{
+    font-size: 30px;
+   position: absolute;
+   top: 85%;
+    left: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    color:#154778 ;
+}
